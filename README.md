@@ -1,7 +1,6 @@
 [Health Insurance Lead Prediction.pdf](https://github.com/Venkatesh-Kalyane/Health-Insurance-Lead-Prediction/files/6056818/Health.Insurance.Lead.Prediction.pdf)
 
 
-Health Insurance Lead Prediction
 
 1.Challenge/Problem Statement:
 
@@ -27,13 +26,14 @@ Recommended Policy Information
 
 3.Approcah to Solve the given problem statement:
 
-I used Random Forest Classifier to solve this problem statement because of following reasons:
+I used 'Random Forest Classifier' to solve this problem statement because of following reasons:
 
 1. It can handle both Continuous and Categorical Variables and Less likely to overfit
 2. Robust to Outliers
 3. Feature Scaling is not required
 4. Require Less Parameter tuning
 5. Imbalance issue can be handled using class_weight parameter
+
 
 4.Target Customers/Industries:
 
